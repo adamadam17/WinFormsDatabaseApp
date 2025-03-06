@@ -1,0 +1,11 @@
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\bin\Debug\Zadanie.exe.config
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\bin\Debug\Zadanie.exe
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\bin\Debug\Zadanie.pdb
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie.csproj.AssemblyReference.cache
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie.Properties.Resources.resources
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie.csproj.GenerateResource.cache
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie.csproj.Up2Date
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie.exe
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie.pdb

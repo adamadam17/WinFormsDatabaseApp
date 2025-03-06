@@ -1,0 +1,14 @@
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\bin\Debug\Zadanie.exe.config
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\bin\Debug\Zadanie.exe
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\bin\Debug\Zadanie.pdb
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie_Richtarik.csproj.AssemblyReference.cache
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie.Form1.resources
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie.Properties.Resources.resources
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie_Richtarik.csproj.GenerateResource.cache
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie_Richtarik.csproj.CoreCompileInputs.cache
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie_.07AFD423.Up2Date
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie.exe
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie.pdb
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie.Login.resources
+C:\Users\Adam\OneDrive\Počítač\Zadanie\Zadanie\obj\Debug\Zadanie.FormPridatVozidlo.resources
